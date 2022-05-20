@@ -1,0 +1,221 @@
+{
+  "title": "Canadian Consortium on Neurodegeneration in Aging (CCNA)",
+  "description": "The signature clinical study for Canadian Consortium on Neurodegeneration in Aging (CCNA), COMPASS-ND aims to enroll 1400 participants (aged 60-90yrs) who are living with, or are at risk for developing, dementia in 30 sites across Canada. The longitudinal study is comprised of multiple timepoints composed of clinical, behavioral neuropsychological, imaging and genetic assessment. ",
+  "creators": [
+    {
+      "name": "Baycrest Centre",
+      "roles": [
+        {
+          "value": "Principal Investigator"
+        }
+      ]
+    }
+  ],
+  "types": [
+    {
+      "information": {
+        "value": "Imaging"
+      }
+    },
+    {
+      "information": {
+        "value": "Neuropsychological"
+      }
+    },
+    {
+      "information": {
+        "value": "Biospecimen"
+      }
+    },
+    {
+      "information": {
+        "value": "Genetic"
+      }
+    },
+    {
+      "information": {
+        "value": "Clinical"
+      }
+    }
+  ],
+  "version": "1.0",
+  "privacy": "private",
+  "licenses": [
+    {
+      "name": "Controlled access at the moment, will be specified in the future. "
+    }
+  ],
+  "distributions": [
+    {
+      "formats": [
+        "HTML",
+        "MINC",
+        "CSV",
+        "NIfTI",
+        ""
+      ],
+      "size": 1,
+      "unit": {
+        "value": "TB"
+      },
+      "access": {
+        "landingPage": "https://ccna.loris.ca/",
+        "authorizations": [
+          {
+            "value": "private"
+          }
+        ]
+      }
+    }
+  ],
+  "primaryPublications": [
+    {
+      "title": "The Comprehensive Assessment of Neurodegeneration and Dementia: Canadian Cohort Study",
+      "publicationVenue": " THE CANADIAN JOURNAL OF NEUROLOGICAL SCIENCES",
+      "authors": [
+        {
+          "fullName": "Howard Chertkow",
+          "firstName": "Howard",
+          "middleInitial": "",
+          "lastName": "Chertkow",
+          "affiliations": [
+            {
+              "name": "McGill University"
+            },
+            {
+              "name": "Lady Davis Institute"
+            }
+          ]
+        }
+      ],
+      "dates": [
+        {
+          "date": "2019-09-01 00:00:00",
+          "type": {
+            "value": "date of publication"
+          }
+        }
+      ],
+      "identifier": {
+        "identifier": "DOI: https://doi.org/10.1017/cjn.2019.27",
+        "identifierSource": ""
+      }
+    }
+  ],
+  "isAbout": [
+    {
+      "name": "Homo sapiens",
+      "identifier": {
+        "identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+        "identifierSource": "NCBI Taxonomy Database"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "value": "Neurodegeneration"
+    },
+    {
+      "value": "Alzheimer Disease"
+    },
+    {
+      "value": "Aging"
+    },
+    {
+      "value": "MRI"
+    },
+    {
+      "value": "Genetic"
+    }
+  ],
+  "extraProperties": [
+    {
+      "category": "subjects",
+      "values": [
+        {
+          "value": "1400"
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": "9999"
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "Canadian"
+        }
+      ]
+    },
+    {
+      "category": "origin_consortium",
+      "values": [
+        {
+          "value": "Canadian Consortium on Neurodegeneration in Aging"
+        }
+      ]
+    },
+    {
+      "category": "origin_city",
+      "values": [
+        {
+          "value": "Montreal"
+        }
+      ]
+    },
+    {
+      "category": "origin_province",
+      "values": [
+        {
+          "value": "Quebec"
+        }
+      ]
+    },
+    {
+      "category": "origin_country",
+      "values": [
+        {
+          "value": "Canada"
+        }
+      ]
+    },
+    {
+      "category": "logo",
+      "values": [
+        {
+          "value": "logo.png"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "Howard Chertkow, hchertkow@research.baycrest.org"
+        }
+      ]
+    },
+    {
+      "category": "REB_statement",
+      "values": [
+        {
+          "value": "In submitting this dataset for inclusion, I declare that local law or a relevant institutional authorization otherwise enables the deposit of these data in an open-access portal."
+        }
+      ]
+    },
+    {
+      "category": "REB_number",
+      "values": [
+        {
+          "value": "MP-05-2016-384, 15-109, 2016-622-IUGS"
+        }
+      ]
+    }
+  ]
+}
