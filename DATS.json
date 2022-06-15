@@ -154,6 +154,14 @@
       ]
     },
     {
+      "category": "comingSoon",
+      "values": [
+        {
+          "value": "Coming soon"
+        }
+      ]
+    },
+    {
       "category": "origin_consortium",
       "values": [
         {
